@@ -28,6 +28,14 @@ a {
     color: white;
     font-size: 22px;
     text-decoration: none;
+    padding: 3px 3px 3px 3px;
+    border-radius: 5px;
+}
+
+a:hover {
+    transition: 0.7s;
+    background-color: #840292;
+    
 }
 
 .contato {
@@ -39,7 +47,7 @@ p {
     margin: 0;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #7973F5;
 }
 
 .descricao {
